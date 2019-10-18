@@ -1,0 +1,11 @@
+{
+  "active": true,
+  "caller": "Abraham Lincoln",
+  "category": "network",
+  "contact-type": "email",
+  "impact": 1,
+  "short-description": "AI attack on network!",
+  "state": 2,
+  "subcategory": "dns",
+  "urgency": 1
+}
